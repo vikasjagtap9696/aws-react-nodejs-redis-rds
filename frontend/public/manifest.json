@@ -1,0 +1,9 @@
+{
+  "short_name": "AWS Store",
+  "name": "AWS Product Store",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#232f3e",
+  "background_color": "#ffffff"
+}
